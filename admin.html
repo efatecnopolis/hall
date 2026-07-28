@@ -395,7 +395,15 @@ async function doLogin() {
     const r = await ghGet(JSON_PATH, t);
     TOKEN = t;
     editingSha = r.sha;
-    eventos = JSON.parse(atob(r.content.replace(/\n/g,'')));
+
+    // ── DECODIFICACIÓN UTF-8 CORRECTA ──
+    const binary = atob(r.content.replace(/\n/g, ''));
+    const bytes = Uint8Array.from(binary, char => char.charCodeAt(0));
+    const jsonText = new TextDecoder('utf-8').decode(bytes);
+    eventos = JSON.parse(jsonText);
+
+
+    //eventos = JSON.parse(atob(r.content.replace(/\n/g,'')));    
     document.getElementById('login-screen').style.display = 'none';
     document.getElementById('app').style.display = 'block';
     renderList();
