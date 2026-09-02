@@ -13,6 +13,19 @@
     "imagen": "imagenes/imagen1.jpg"
   },
   {
+    "id": 4,
+    "titulo": "Inicio Curso Escolar 2026-27",
+    "parrafo": "",
+    "tipo": "Jornada",
+    "fecha": "15/09/2026",
+    "hora": "11:00 - 15:00",
+    "lugar": "Edificio Docencia",
+    "dirigido": "A todos los alumnos",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/portada.jpg"
+  },
+  {
     "id": 3,
     "titulo": "Visita a Infoagro",
     "parrafo": "El alumnado de los ciclos de Agronomí­a visitará la feria internacional Infoagro Exhibition, referente del sector agrí­cola en Europa.",
