@@ -1,18 +1,5 @@
 [
   {
-    "id": 1,
-    "titulo": "Dí­a de la Mujer Agraria",
-    "parrafo": "Las mujeres representan el 26,2 % del empleo agrario en España. Su rol es vital para el desarrollo local, combinando la producción de alimentos con el emprendimiento rural y el cuidado familiar, a menudo enfrentando retos como el relevo generacional y la conciliación",
-    "tipo": "Jornada",
-    "fecha": "28/07/2026",
-    "hora": "10:00 - 12:00",
-    "lugar": "Salón de Actos EFA Campomar",
-    "dirigido": "Todo el alumnado",
-    "ultimaHora": "Haremos un refresco",
-    "masInfo": "Vamos a ir todos y todas",
-    "imagen": "imagenes/imagen1.jpg"
-  },
-  {
     "id": 2,
     "titulo": "Feria Internacional de Automoción en Aguadulce",
     "parrafo": "Una feria de automoción (o salón del automóvil) es un evento público o profesional donde marcas, concesionarios y empresas del sector del motor se reúnen para exhibir sus vehí­culos, prototipos y tecnologí­as. Su objetivo principal es concentrar la oferta del mercado en un solo lugar para facilitar la comparación y la compra.",
@@ -37,5 +24,18 @@
     "ultimaHora": "Llevar documentación",
     "masInfo": "Salida puntual. Llevar bocadillo y agua.",
     "imagen": "imagenes/imagen2.jpg"
+  },
+  {
+    "id": 1,
+    "titulo": "Reunión de Padres- Curso 2026-2027",
+    "parrafo": "Las mujeres representan el 26,2 % del empleo agrario en España. Su rol es vital para el desarrollo local, combinando la producción de alimentos con el emprendimiento rural y el cuidado familiar, a menudo enfrentando retos como el relevo generacional y la conciliación",
+    "tipo": "Jornada",
+    "fecha": "10/09/2026",
+    "hora": "19:00 - 20:00",
+    "lugar": "Salón de Actos EFA Campomar",
+    "dirigido": "Todo el alumnado",
+    "ultimaHora": "Haremos un refresco",
+    "masInfo": "Se ruega puntualidad",
+    "imagen": "imagenes/imagen1.jpg"
   }
 ]
