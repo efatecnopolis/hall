@@ -2,7 +2,7 @@
   {
     "id": 1,
     "titulo": "Reunión de Padres alumnos. Curso 2026-27",
-    "parrafo": "Las mujeres representan el 26,2 % del empleo agrario en España. Su rol es vital para el desarrollo local, combinando la producción de alimentos con el emprendimiento rural y el cuidado familiar, a menudo enfrentando retos como el relevo generacional y la conciliación",
+    "parrafo": "Reunión informativa para padres/madres o tutores de los alumnos de EFA Campomar.",
     "tipo": "Jornada",
     "fecha": "10/09/2026",
     "hora": "19:00 - 20:00",
@@ -10,7 +10,7 @@
     "dirigido": "Todo el alumnado",
     "ultimaHora": "Haremos un refresco",
     "masInfo": "Se ruega puntualidad",
-    "imagen": "imagenes/imagen1.jpg"
+    "imagen": "imagenes/logotipo.jpg"
   },
   {
     "id": 4,
