@@ -13,19 +13,6 @@
     "imagen": "imagenes/imagen4.jpg"
   },
   {
-    "id": 3,
-    "titulo": "Visita a Infoagro",
-    "parrafo": "El alumnado de los ciclos de Agronomí­a visitará la feria internacional Infoagro Exhibition, referente del sector agrí­cola en Europa.",
-    "tipo": "Visita",
-    "fecha": "30/07/2026",
-    "hora": "7:00",
-    "lugar": "Puerta Principal (Autobús)",
-    "dirigido": "Todos los ciclos",
-    "ultimaHora": "Llevar documentación",
-    "masInfo": "Salida puntual. Llevar bocadillo y agua.",
-    "imagen": "imagenes/imagen2.jpg"
-  },
-  {
     "id": 1,
     "titulo": "Reunión de Padres- Curso 2026-2027",
     "parrafo": "Las mujeres representan el 26,2 % del empleo agrario en España. Su rol es vital para el desarrollo local, combinando la producción de alimentos con el emprendimiento rural y el cuidado familiar, a menudo enfrentando retos como el relevo generacional y la conciliación",
@@ -37,5 +24,18 @@
     "ultimaHora": "Haremos un refresco",
     "masInfo": "Se ruega puntualidad",
     "imagen": "imagenes/imagen1.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Visita a Infoagro",
+    "parrafo": "El alumnado de los ciclos de Agronomí­a visitará la feria internacional Infoagro Exhibition, referente del sector agrí­cola en Europa.",
+    "tipo": "Visita",
+    "fecha": "12/10/2026",
+    "hora": "7:00",
+    "lugar": "Puerta Principal (Autobús)",
+    "dirigido": "Todos los ciclos",
+    "ultimaHora": "Llevar documentación",
+    "masInfo": "Salida puntual. Llevar bocadillo y agua.",
+    "imagen": "imagenes/imagen2.jpg"
   }
 ]
