@@ -13,6 +13,19 @@
     "imagen": "imagenes/logotipo.jpg"
   },
   {
+    "id": 5,
+    "titulo": "Jornada de Inauguración curso escolar",
+    "parrafo": "",
+    "tipo": "Jornada",
+    "fecha": "10/09/2026",
+    "hora": "09:00 - 14:00",
+    "lugar": "EFA Soto (Granada)",
+    "dirigido": "Profesorado",
+    "ultimaHora": "Ser puntuales y llevaros DNI",
+    "masInfo": "Comeremos en un restaurante",
+    "imagen": "imagenes/portada.jpg"
+  },
+  {
     "id": 4,
     "titulo": "Inicio Curso Escolar 2026-27",
     "parrafo": "",
