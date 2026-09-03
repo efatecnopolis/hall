@@ -24,18 +24,5 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/portada.jpg"
-  },
-  {
-    "id": 2,
-    "titulo": "Feria Internacional de Automoción en Aguadulce",
-    "parrafo": "Una feria de automoción (o salón del automóvil) es un evento público o profesional donde marcas, concesionarios y empresas del sector del motor se reúnen para exhibir sus vehí­culos, prototipos y tecnologí­as. Su objetivo principal es concentrar la oferta del mercado en un solo lugar para facilitar la comparación y la compra.",
-    "tipo": "Visita",
-    "fecha": "18/11/2026",
-    "hora": "09:00 - 14:00",
-    "lugar": "Palacio de Congresos Aguadulce",
-    "dirigido": "Alumnos de EVA y Automoción",
-    "ultimaHora": "Llevaté bocadillo que comes allí­",
-    "masInfo": "Iremos en autobús",
-    "imagen": "imagenes/imagen4.jpg"
   }
 ]
