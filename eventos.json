@@ -26,19 +26,6 @@
     "imagen": "imagenes/portada.jpg"
   },
   {
-    "id": 3,
-    "titulo": "Visita a Infoagro",
-    "parrafo": "El alumnado de los ciclos de Agronomí­a visitará la feria internacional Infoagro Exhibition, referente del sector agrí­cola en Europa.",
-    "tipo": "Visita",
-    "fecha": "12/10/2026",
-    "hora": "7:00",
-    "lugar": "Puerta Principal (Autobús)",
-    "dirigido": "Todos los ciclos",
-    "ultimaHora": "Llevar documentación",
-    "masInfo": "Salida puntual. Llevar bocadillo y agua.",
-    "imagen": "imagenes/imagen2.jpg"
-  },
-  {
     "id": 2,
     "titulo": "Feria Internacional de Automoción en Aguadulce",
     "parrafo": "Una feria de automoción (o salón del automóvil) es un evento público o profesional donde marcas, concesionarios y empresas del sector del motor se reúnen para exhibir sus vehí­culos, prototipos y tecnologí­as. Su objetivo principal es concentrar la oferta del mercado en un solo lugar para facilitar la comparación y la compra.",
