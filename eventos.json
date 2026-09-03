@@ -2,13 +2,13 @@
   {
     "id": 1,
     "titulo": "Reunión de Padres alumnos. Curso 2026-27",
-    "parrafo": "Reunión informativa para padres/madres o tutores de los alumnos de EFA Campomar.",
+    "parrafo": "Reunión informativa para padres/madres o tutores del alumnado de EFA Campomar.",
     "tipo": "Jornada",
     "fecha": "10/09/2026",
     "hora": "19:00 - 20:00",
-    "lugar": "Salón de Actos EFA Campomar",
-    "dirigido": "Todo el alumnado",
-    "ultimaHora": "Haremos un refresco",
+    "lugar": "Aulas de referencia",
+    "dirigido": "Familias",
+    "ultimaHora": "",
     "masInfo": "Se ruega puntualidad",
     "imagen": "imagenes/logotipo.jpg"
   },
