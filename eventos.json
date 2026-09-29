@@ -24,5 +24,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/portada.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Día Internacional de las Mujeres Rurales",
+    "parrafo": "El Día Internacional de las Mujeres Rurales se celebra cada 15 de octubre para reconocer el trabajo vital de las mujeres en el campo. Las Naciones Unidas aprobaron esta fecha en el año 2007 para dar valor a su esfuerzo diario.",
+    "tipo": "Jornada",
+    "fecha": "15/09/2026",
+    "hora": "",
+    "lugar": "Salón de Actos",
+    "dirigido": "Todo el alumnado",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/mujer_rural.jpg"
   }
 ]
