@@ -37,5 +37,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/mujer_rural.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Visita de RIJK ZWAAN",
+    "parrafo": "El próximo lunes nos visita D. Ana Salmerón Cervantes, advisor human resources, y D. Alejandro César Azor, trial coordinator del Centro de Ensayos de El Ejido, de la empresa RIJK ZWAAN.",
+    "tipo": "Jornada",
+    "fecha": "09/11/2026",
+    "hora": "9:30",
+    "lugar": "Salón de Actos",
+    "dirigido": "Alumnado de Producción Agroecológica y de Paisajismo y Medio Rural",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/rzwaan.jpg"
   }
 ]
