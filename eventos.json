@@ -52,6 +52,19 @@
     "imagen": "imagenes/www.jpg"
   },
   {
+    "id": 8,
+    "titulo": "Visita de investigadores y agricultores de CHILE a EFA CAMPOMAR",
+    "parrafo": "Visita de una delegación de investigadores y agricultores de CHILE para conocer el modelo agrícola almeriense.",
+    "tipo": "Jornada",
+    "fecha": "11/11/2026",
+    "hora": "9:30",
+    "lugar": "EFA CAMPOMAR",
+    "dirigido": "Toda la comunidad educativa.",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/ciesol.jpg"
+  },
+  {
     "id": 7,
     "titulo": "Visita XX JORNADA AGRICULTURA ALMERIENSE EN EL SIGLO XXI (EL EJIDO)",
     "parrafo": "Visita al Teatro Municipal de El Ejido para asistir a las XX Jornada de Agricultura Almeriense en el siglo XXI con el título \"El gran sector de las frutas y hortalizas y los retos\"",
