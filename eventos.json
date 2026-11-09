@@ -76,5 +76,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/la-voz.jpg"
+  },
+  {
+    "id": 9,
+    "titulo": "Jornada demostrativa de innovación y sostenibilidad agraria - DEMOEXTRACT EN CAMPO -",
+    "parrafo": "Visita a TECNOVA para asistir a la jornada demostrativa de innovación y sostenibilidad agraria para presentación del proyecto GO DEMOEXTRACT",
+    "tipo": "Visita",
+    "fecha": "12/11/2026",
+    "hora": "11:00",
+    "lugar": "TECNOVA (PITA - Parque Científico Tecnológico de Almería)",
+    "dirigido": "Alumnado de 2º de PAISAJISMO Y MEDIO RURAL",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/captura-de-pantalla-2026-11-09-150021.jpg"
   }
 ]
