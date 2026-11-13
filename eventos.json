@@ -89,5 +89,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/captura-de-pantalla-2026-11-09-150021.jpg"
+  },
+  {
+    "id": 10,
+    "titulo": "Únete a EFA CAMPOMAR en la GRAN RECOGIDA DE ALIMENTOS",
+    "parrafo": "EFA CAMPOMAR colabora con el BANCO DE ALIMENTOS durante el día de hoy en el C.C. Gran Plaza. Con esta iniciativa queremos aportar nuestro granito de arena a la construcción de una sociedad más justa, solidaria y comprometida con quienes más lo necesitan.",
+    "tipo": "Festividad",
+    "fecha": "13/11/2026",
+    "hora": "9:00",
+    "lugar": "Centro Comercial GRAN PLAZA (Roquetas de Mar)",
+    "dirigido": "Toda la comunidad educativa",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/banco-alimentos.jpg"
   }
 ]
