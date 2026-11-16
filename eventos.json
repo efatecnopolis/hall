@@ -102,5 +102,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/banco-alimentos.jpg"
+  },
+  {
+    "id": 11,
+    "titulo": "Reunión con FAMILIAS del alumnado del curso 2026/2027",
+    "parrafo": "Reunión informativa para padres/madres o tutores del alumnado de EFA Campomar.",
+    "tipo": "Jornada",
+    "fecha": "16/11/2026",
+    "hora": "18:00",
+    "lugar": "Aulas de referencia",
+    "dirigido": "Familias del alumnado.",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/logo-efacampomar.jpg"
   }
 ]
