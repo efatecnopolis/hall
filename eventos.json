@@ -115,5 +115,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/logo-efacampomar---sin-letras.jpg"
+  },
+  {
+    "id": 12,
+    "titulo": "Hoy nos visita alumnado y profesorado del IES AGUADULE",
+    "parrafo": "EFA CAMPOMARN recibe la visita de un grupo de alumnos y profesores interesados en conocer nuestras instalaciones y la oferta formativa de nuestro centro.",
+    "tipo": "Visita",
+    "fecha": "18/11/2026",
+    "hora": "9:30",
+    "lugar": "EFA Campomar",
+    "dirigido": "Toda la comunidad educativa.",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/ies-aguadulce.jpg"
   }
 ]
