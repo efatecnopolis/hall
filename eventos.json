@@ -1,18 +1,5 @@
 [
   {
-    "id": 14,
-    "titulo": "Acercamos el mundo de las finanzas a nuestro alumnado con UNICAJA BANCO",
-    "parrafo": "Recibimos en EFA Campomar la visita de Unicaja Banco, que ha compartirá con nuestros estudiantes las ventajas y oportunidades que ofrece su CUENTA JOVEN, acercándoles los servicios bancarios de una forma práctica y cercana.",
-    "tipo": "Jornada",
-    "fecha": "19/11/2016",
-    "hora": "9:30",
-    "lugar": "Salón de actos",
-    "dirigido": "Alumnado de GRADO SUPERIOR de todas las familias profesionales",
-    "ultimaHora": "",
-    "masInfo": "",
-    "imagen": "imagenes/unicaja_vertical_600x800.jpg"
-  },
-  {
     "id": 1,
     "titulo": "Reunión con FAMILIAS del alumnado. Curso 2026-27",
     "parrafo": "Reunión informativa para padres/madres o tutores del alumnado de EFA Campomar.",
@@ -141,5 +128,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/ies-aguadulce.jpg"
+  },
+  {
+    "id": 14,
+    "titulo": "Acercamos el mundo de las finanzas a nuestro alumnado con UNICAJA BANCO",
+    "parrafo": "Recibimos en EFA Campomar la visita de Unicaja Banco, que ha compartirá con nuestros estudiantes las ventajas y oportunidades que ofrece su CUENTA JOVEN, acercándoles los servicios bancarios de una forma práctica y cercana.",
+    "tipo": "Jornada",
+    "fecha": "19/11/2026",
+    "hora": "9:30",
+    "lugar": "Salón de actos",
+    "dirigido": "Alumnado de GRADO SUPERIOR de todas las familias profesionales",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/unicaja_vertical_600x800.jpg"
   }
 ]
