@@ -39,19 +39,6 @@
     "imagen": "imagenes/portada.jpg"
   },
   {
-    "id": 13,
-    "titulo": "EFA Campomar recibe la visita de Unicaja.",
-    "parrafo": "Unicaja Banco nos visita con la finalidad de acercar al alumnado las ventajas que puede proporcionar una CUENTA JOVEN en esta entidad.",
-    "tipo": "Jornada",
-    "fecha": "19/09/2026",
-    "hora": "9:30",
-    "lugar": "Salón de actos",
-    "dirigido": "Alumnado de Ciclos de Grado Superio",
-    "ultimaHora": "",
-    "masInfo": "",
-    "imagen": "imagenes/unicaja-banco.jpg"
-  },
-  {
     "id": 5,
     "titulo": "Día Internacional de las Mujeres Rurales",
     "parrafo": "El Día Internacional de las Mujeres Rurales se celebra cada 15 de octubre para reconocer el trabajo vital de las mujeres en el campo. Las Naciones Unidas aprobaron esta fecha en el año 2007 para dar valor a su esfuerzo diario.",
