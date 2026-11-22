@@ -141,5 +141,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/unicaja_vertical_600x800.jpg"
+  },
+  {
+    "id": 15,
+    "titulo": "Polinización con POLYFLY",
+    "parrafo": "POLYFLY nos visita para compartir con nuestro alumnado una jornada práctica sobre POLINIZACIÓN a cargo de Dª. Manuela Sánchez, Field R&D Manager y Dra. en Agricultura Protegida.",
+    "tipo": "Jornada",
+    "fecha": "26/11/2026",
+    "hora": "9:30",
+    "lugar": "Salón de actos",
+    "dirigido": "Alumnado de 1º de PAISAJISMO Y MEDIO RURAL",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/polyfly.jpg"
   }
 ]
