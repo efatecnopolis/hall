@@ -143,6 +143,19 @@
     "imagen": "imagenes/unicaja_vertical_600x800.jpg"
   },
   {
+    "id": 17,
+    "titulo": "Tu próxima partida te espera",
+    "parrafo": "Si te gusta jugar al AJEDREZ o quieres aprender, disfruta jugando durante los recreos con tus compañeros. Rétales, conoce a tus rivales. y pon a prueba tu estrategia.",
+    "tipo": "General",
+    "fecha": "23/11/2026",
+    "hora": "11:30-12:00",
+    "lugar": "Sala de visitas",
+    "dirigido": "Todo la comunidad educativa",
+    "ultimaHora": "",
+    "masInfo": "Infórmate en SECRETARÍA",
+    "imagen": "imagenes/aula-djaque.jpg"
+  },
+  {
     "id": 15,
     "titulo": "Polinización con POLYFLY",
     "parrafo": "POLYFLY nos visita para compartir con nuestro alumnado una jornada práctica sobre POLINIZACIÓN a cargo de Dª. Manuela Sánchez, Field R&D Manager y Dra. en Agricultura Protegida.",
