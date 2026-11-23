@@ -154,5 +154,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/polyfly.jpg"
+  },
+  {
+    "id": 16,
+    "titulo": "Trips parvispinus: situación actual y experiencias de control",
+    "parrafo": "El alumnado de EFA Campomar asiste a una jornada técnica organizada por FUNDACIÓN GRUPO CAJAMAR y COEXPHAL donde se tratará una visión internacional sobre su control biológico.",
+    "tipo": "Visita",
+    "fecha": "26/11/2026",
+    "hora": "9:30",
+    "lugar": "Estación Experimental Las Palmerillas (El Ejido)",
+    "dirigido": "Alumnado de 2º de PAISAJISMO Y MEDIO RURAL",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/cajamar-y-coexphal.jpg"
   }
 ]
