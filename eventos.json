@@ -143,19 +143,6 @@
     "imagen": "imagenes/unicaja_vertical_600x800.jpg"
   },
   {
-    "id": 17,
-    "titulo": "El Ajedrez llega a los recreos",
-    "parrafo": "Disfruta de los recreos jugando con tus compañeros, rétalos, conoce a nuevos rivales y pon a prueba tu estrategia. No importa tu nivel, ¡lo importante es participar y divertirse!",
-    "tipo": "General",
-    "fecha": "23/11/2026",
-    "hora": "11:30-12:00",
-    "lugar": "Sala de visitas - todos los días",
-    "dirigido": "Todo la comunidad educativa",
-    "ultimaHora": "",
-    "masInfo": "Infórmate en SECRETARÍA",
-    "imagen": "imagenes/aula-djaque.jpg"
-  },
-  {
     "id": 15,
     "titulo": "Polinización con POLYFLY",
     "parrafo": "POLYFLY nos visita para compartir con nuestro alumnado una jornada práctica sobre POLINIZACIÓN a cargo de Dª. Manuela Sánchez, Field R&D Manager y Dra. en Agricultura Protegida.",
@@ -180,6 +167,19 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/cajamar-y-coexphal.jpg"
+  },
+  {
+    "id": 17,
+    "titulo": "El Ajedrez llega a los recreos",
+    "parrafo": "Disfruta de los recreos jugando con tus compañeros, rétalos, conoce a nuevos rivales y pon a prueba tu estrategia. No importa tu nivel, ¡lo importante es participar y divertirse!",
+    "tipo": "General",
+    "fecha": "30/11/2026",
+    "hora": "11:30-12:00",
+    "lugar": "Sala de visitas - todos los días",
+    "dirigido": "Todo la comunidad educativa",
+    "ultimaHora": "",
+    "masInfo": "Infórmate en SECRETARÍA",
+    "imagen": "imagenes/aula-djaque.jpg"
   },
   {
     "id": 18,
