@@ -180,5 +180,18 @@
     "ultimaHora": "",
     "masInfo": "",
     "imagen": "imagenes/cajamar-y-coexphal.jpg"
+  },
+  {
+    "id": 18,
+    "titulo": "SENDERISMO con EFA CAMPOMAR",
+    "parrafo": "RUTA senderista desde el Santuario de la VIRGEN DEL MAR hasta la Ermita de TORREGARCÍA.",
+    "tipo": "Evento",
+    "fecha": "05/12/2026",
+    "hora": "9:00",
+    "lugar": "Santuario Virgen del Mar (Almería)",
+    "dirigido": "Toda la comunidad educativa",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/whatsapp-image-2026-11-26-at-14.01.57.jpeg"
   }
 ]
