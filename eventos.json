@@ -169,6 +169,19 @@
     "imagen": "imagenes/cajamar-y-coexphal.jpg"
   },
   {
+    "id": 19,
+    "titulo": "Visita al concesionario RENAULT camiones  GAMA 1 en Huércal de Almería",
+    "parrafo": "Visitamos el concesionario de RENAULT CAMIONES en Huércal de Almería para introducirnos en el apasionante mundo de la automoción en vehículos pesados de la mano de una gran marca.",
+    "tipo": "Visita",
+    "fecha": "27/11/2026",
+    "hora": "9:00",
+    "lugar": "Huércal de Almería",
+    "dirigido": "1º de AUTOMOCIÓN",
+    "ultimaHora": "",
+    "masInfo": "",
+    "imagen": "imagenes/gama1.jpg"
+  },
+  {
     "id": 17,
     "titulo": "El Ajedrez llega a los recreos",
     "parrafo": "Disfruta de los recreos jugando con tus compañeros, rétalos, conoce a nuevos rivales y pon a prueba tu estrategia. No importa tu nivel, ¡lo importante es participar y divertirse!",
